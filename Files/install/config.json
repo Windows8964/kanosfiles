@@ -1,0 +1,16 @@
+{
+    "window": {
+        "titlebar": {
+            "height": 30,
+            "fsize": 12,
+            "buttonRatio": 1.25
+        },
+        "borderWidth": 2,
+        "themeColor": "#ffdc78",
+        "transparencyEffects": false
+    },
+    "taskbar": {
+        "height": 40,
+        "border": 10
+    }
+}
